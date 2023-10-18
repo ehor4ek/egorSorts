@@ -181,7 +181,7 @@ void quickSort(int* x, int l, int r, int length) {
 }
 
 void countSort(int* x, int length) {
-    
+    // thinking
 }
 
 int kStatistics(int* x, int length, int k) {
